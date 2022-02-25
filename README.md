@@ -1,1 +1,1 @@
-Creates and opens an html file of the images in a folder
+Creates and opens an html file of all the images in a folder
